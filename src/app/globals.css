@@ -31,3 +31,20 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Custom css */
+body {
+  font-size: 18px;
+}
+.rounded-b-12xl {
+  border-bottom-right-radius: 150px;
+  border-bottom-left-radius: 150px;
+}
+.rounded-t-20xl {
+  border-top-left-radius: 250px;
+  border-top-right-radius: 250px;
+}
+.custom_container {
+  width: 1280px;
+}
+/* End custom css */
